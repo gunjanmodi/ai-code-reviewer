@@ -89,6 +89,9 @@ This will:
 
 ---
 
+## License
+MIT License. See LICENSE file for details.
+
 ## 🙋‍♂️ Contributing
 
 Contributions, bug reports, and feature requests are welcome! Feel free to fork the repo and open PRs.
